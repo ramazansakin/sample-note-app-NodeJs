@@ -15,3 +15,5 @@ node server.js
 You can browse the apis at http://localhost:3000
 
 ### Test
+
+You can look at the sample-pics folder to see test api results.
